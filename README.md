@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @RabbiPND 
-- 👀 I’m interested in Frontend development and Web designing
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on Personal Portfolio Website, E-commerce website, Blog Platform, Restaurant Websites, Online Portfolio for an Artist or Photographer, Tech Startup Landing Page, etc. Any projects that will create clean and responsive design, user-friendly interfaces, optimal performance and an intuitive user experience
-- 📫 How to reach me ...
+- 👀 I’m interested in Exploring innovative ways to harness the power of data, uncovering       actionable insights, and creating compelling visualizations that drive decision-making
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on exciting projects that challenge the status quo, where I can leverage my analytical skills to solve complex problems and contribute to meaningful outcomes. Whether it's refining financial models, optimizing data pipelines, or crafting interactive dashboards, count me in!
+- 📫 How to reach me: Email: Rabbikabuya6@gmail.com and WhatsApp : 062 554 8825
 
 <!---
 RabbiPND/RabbiPND is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
